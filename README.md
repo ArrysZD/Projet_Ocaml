@@ -59,4 +59,4 @@ Pour exécuter ce projet, **OCaml** doit être installé sur votre machine. Util
     ```
 
 # Auteurs
-Racim ZENATI & Arris ZAIDI
+ZAIDI Arris & ZENATI Racim
